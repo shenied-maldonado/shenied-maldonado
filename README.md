@@ -1,5 +1,5 @@
 # 💫 About Me:
-Started coding to pass the time.<br>Recently finished my Software Engineering Capstone project. <br>I'm having fun learning about UI/UX and full-stack engineering.<br>My interests lie near DevOps engineering. <br>Ask me about cocktails, video games, or animes 
+Started coding to pass the time, now I'm about to graduate as a software engineer! <br>I'm having fun learning about UI/UX, full-stack engineering, and edge AI.<br>My interests lie near DevOps/MLOps engineering, but I'm actively exploring. <br>Ask me about cocktails, video games, or anime!
 
 
 ## 🌐 Socials:
